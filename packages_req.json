@@ -1,0 +1,12 @@
+{
+  "name": "Poverty Chat Client",
+  "version": "0.0.1",
+  "description": "The unofficial chat client for CS439",
+  "dependencies":
+  {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "author": "developer"
+}
