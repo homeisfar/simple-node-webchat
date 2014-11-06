@@ -2,7 +2,7 @@ window.onload = function ()
 {
   var messages = [];
   var localaddr
-  var socket = io.connect('http://localhost:3700');
+  var socket = io.connect();
   var field = document.getElementById("field");
   var sendButton = document.getElementById("send");
   var content = document.getElementById("content");
